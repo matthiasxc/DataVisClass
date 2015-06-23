@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" href="/html/css/phone.css" />
+    </head>
+    
+   <body>
+        <textarea id="processing_input" 
+            name="processing_input" 
+            class="processing_input" cols="100" 
+            spellcheck="false" 
+            placeholder="Enter JSON to validate, or a URL to JSON to validate." 
+            style="resize: both" > </textarea>
+
+    </body>
+    <script type="text/javascript">
+        function getText() {
+            var inputBox = document.getElementById("processing_input");
+            var processingText = inputBox.value;
+            window.external.notify(processingText);
+        }
+
+        function setText(process_Text) {
+            var inputBox = document.getElementById("processing_input");
+            inputBox.value = process_Text;
+        }
+
+        //setText("Testing Text 1, 2, 3");
+    </script>
+</html>

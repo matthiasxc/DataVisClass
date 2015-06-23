@@ -1,0 +1,271 @@
+Book,Character,Start Page,EndPage,PageCount
+Game of Thrones,Prologue,1,11,10
+Game of Thrones,Bran,13,27,14
+Game of Thrones,Daenerys,28,38,10
+Game of Thrones,Eddard,39,48,9
+Game of Thrones,Jon,49,57,8
+Game of Thrones,Catelyn,58,67,9
+Game of Thrones,Arya,68,75,7
+Game of Thrones,Bran,76,85,9
+Game of Thrones,Tyrion,86,92,6
+Game of Thrones,Jon,93,98,5
+Game of Thrones,Daenerys,99,108,9
+Game of Thrones,Eddard,109,117,8
+Game of Thrones,Tyrion,118,127,9
+Game of Thrones,Catelyn,128,138,10
+Game of Thrones,Sansa,139,152,13
+Game of Thrones,Eddard,153,159,6
+Game of Thrones,Bran,160,164,4
+Game of Thrones,Catelyn,165,175,10
+Game of Thrones,Jon,176,189,13
+Game of Thrones,Eddard,190,202,12
+Game of Thrones,Tyrion,203,214,11
+Game of Thrones,Arya,215,225,10
+Game of Thrones,Daenerys,226,236,10
+Game of Thrones,Bran,237,249,12
+Game of Thrones,Eddard,250,258,8
+Game of Thrones,Jon,259,271,12
+Game of Thrones,Eddard,272,282,10
+Game of Thrones,Catelyn,283,292,9
+Game of Thrones,Sansa,293,304,11
+Game of Thrones,Eddard,305,323,18
+Game of Thrones,Tyrion,324,337,13
+Game of Thrones,Arya,338,350,12
+Game of Thrones,Eddard,351,358,7
+Game of Thrones,Catelyn,359,377,18
+Game of Thrones,Eddard,378,384,6
+Game of Thrones,Daenerys,385,395,10
+Game of Thrones,Bran,396,409,13
+Game of Thrones,Tyrion,410,423,13
+Game of Thrones,Eddard,424,430,6
+Game of Thrones,Catelyn,431,443,12
+Game of Thrones,Jon,444,451,7
+Game of Thrones,Tyrion,452,461,9
+Game of Thrones,Eddard,462,471,9
+Game of Thrones,Sansa,472,479,7
+Game of Thrones,Eddard,480,488,8
+Game of Thrones,Daenerys,489,500,11
+Game of Thrones,Eddard,501,514,13
+Game of Thrones,Jon,515,522,7
+Game of Thrones,Eddard,523,529,6
+Game of Thrones,Arya,530,541,11
+Game of Thrones,Sansa,542,551,9
+Game of Thrones,Jon,552,567,15
+Game of Thrones,Bran,568,582,14
+Game of Thrones,Daenerys,583,594,11
+Game of Thrones,Catelyn,595,606,11
+Game of Thrones,Tyrion,607,617,10
+Game of Thrones,Sansa,618,627,9
+Game of Thrones,Eddard,628,637,9
+Game of Thrones,Catelyn,638,651,13
+Game of Thrones,Jon,652,653,1
+Game of Thrones,Daenerys,654,674,20
+Game of Thrones,Tyrion,675,693,18
+Game of Thrones,Catelyn,694,701,7
+Game of Thrones,Daenerys,702,715,13
+Game of Thrones,Arya,716,728,12
+Game of Thrones,Bran,729,740,11
+Game of Thrones,Sansa,741,750,9
+Game of Thrones,Daenerys,751,761,10
+Game of Thrones,Tyrion,762,771,9
+Game of Thrones,Jon,772,784,12
+Game of Thrones,Catelyn,785,797,12
+Game of Thrones,Daenerys,798,807,9
+Clash of Kings,Prologue,1,29,28
+Clash of Kings,Arya,30,37,7
+Clash of Kings,Sansa,38,52,14
+Clash of Kings,Tyrion,53,69,16
+Clash of Kings,Bran,70,80,10
+Clash of Kings,Arya,81,92,11
+Clash of Kings,Jon,93,106,13
+Clash of Kings,Catelyn,107,121,14
+Clash of Kings,Tyrion,122,135,13
+Clash of Kings,Arya,136,144,8
+Clash of Kings,Davos,145,163,18
+Clash of Kings,Theon,164,186,22
+Clash of Kings,Daenerys,187,202,15
+Clash of Kings,Jon,203,210,7
+Clash of Kings,Arya,211,227,16
+Clash of Kings,Tyrion,228,242,14
+Clash of Kings,Bran,243,260,17
+Clash of Kings,Tyrion,261,278,17
+Clash of Kings,Sansa,279,288,9
+Clash of Kings,Arya,289,306,17
+Clash of Kings,Tyrion,307,322,15
+Clash of Kings,Bran,323,333,10
+Clash of Kings,Catelyn,334,353,19
+Clash of Kings,Jon,354,376,22
+Clash of Kings,Theon,377,396,19
+Clash of Kings,Tyrion,397,412,15
+Clash of Kings,Arya,413,421,8
+Clash of Kings,Daenerys,422,432,10
+Clash of Kings,Bran,433,443,10
+Clash of Kings,Tyrion,444,454,10
+Clash of Kings,Arya,455,469,14
+Clash of Kings,Catelyn,470,484,14
+Clash of Kings,Sansa,485,494,9
+Clash of Kings,Catelyn,495,506,11
+Clash of Kings,Jon,507,518,11
+Clash of Kings,Bran,519,527,8
+Clash of Kings,Tyrion,528,536,8
+Clash of Kings,Theon,537,546,9
+Clash of Kings,Arya,547,556,9
+Clash of Kings,Catelyn,557,573,16
+Clash of Kings,Daenerys,574,586,12
+Clash of Kings,Tyrion,587,603,16
+Clash of Kings,Davos,604,623,19
+Clash of Kings,Jon,624,633,9
+Clash of Kings,Tyrion,634,648,14
+Clash of Kings,Catelyn,649,662,13
+Clash of Kings,Bran,663,674,11
+Clash of Kings,Arya,675,695,20
+Clash of Kings,Daenerys,696,708,12
+Clash of Kings,Tyrion,709,719,10
+Clash of Kings,Theon,720,735,15
+Clash of Kings,Jon,736,749,13
+Clash of Kings,Sansa,750,761,11
+Clash of Kings,Jon,762,771,9
+Clash of Kings,Tyrion,772,782,10
+Clash of Kings,Catelyn,783,799,16
+Clash of Kings,Theon,800,810,10
+Clash of Kings,Arya,811,819,8
+Clash of Kings,Davos,820,836,16
+Clash of Kings,Tyrion,837,843,6
+Clash of Kings,Sansa,844,851,7
+Clash of Kings,Tyrion,852,860,8
+Clash of Kings,Sansa,861,869,8
+Clash of Kings,Daenerys,870,884,14
+Clash of Kings,Arya,885,903,18
+Clash of Kings,Sansa,904,915,11
+Clash of Kings,Theon,916,930,14
+Clash of Kings,Tyrion,931,941,10
+Clash of Kings,Jon,942,955,13
+Clash of Kings,Bran,956,969,13
+A Storm of Swords,Prologue,1,17,16
+A Storm of Swords,Jaime,18,32,14
+A Storm of Swords,Catelyn,33,42,9
+A Storm of Swords,Arya,43,52,9
+A Storm of Swords,Tyrion,53,66,13
+A Storm of Swords,Davos,67,74,7
+A Storm of Swords,Sansa,75,90,15
+A Storm of Swords,Jon,91,104,13
+A Storm of Swords,Daenerys,105,121,16
+A Storm of Swords,Bran,122,132,10
+A Storm of Swords,Davos,133,145,12
+A Storm of Swords,Jaime,146,160,14
+A Storm of Swords,Tyrion,161,172,11
+A Storm of Swords,Arya,173,187,14
+A Storm of Swords,Catelyn,188,201,13
+A Storm of Swords,Jon,202,219,17
+A Storm of Swords,Sansa,220,226,6
+A Storm of Swords,Arya,227,235,8
+A Storm of Swords,Samwell,236,253,17
+A Storm of Swords,Tyrion,254,272,18
+A Storm of Swords,Catelyn,273,284,11
+A Storm of Swords,Jaime,285,297,12
+A Storm of Swords,Arya,298,310,12
+A Storm of Swords,Daenerys,311,330,19
+A Storm of Swords,Bran,331,343,12
+A Storm of Swords,Davos,344,354,10
+A Storm of Swords,Jon,355,366,11
+A Storm of Swords,Daenerys,367,381,14
+A Storm of Swords,Sansa,382,394,12
+A Storm of Swords,Arya,395,404,9
+A Storm of Swords,Jon,405,412,7
+A Storm of Swords,Jaime,413,424,11
+A Storm of Swords,Tyrion,425,440,15
+A Storm of Swords,Samwell,441,459,18
+A Storm of Swords,Arya,460,473,13
+A Storm of Swords,Catelyn,474,487,13
+A Storm of Swords,Davos,488,502,14
+A Storm of Swords,Jaime,503,519,16
+A Storm of Swords,Tyrion,520,529,9
+A Storm of Swords,Arya,530,544,14
+A Storm of Swords,Bran,545,555,10
+A Storm of Swords,Jon,556,570,14
+A Storm of Swords,Daenerys,571,589,18
+A Storm of Swords,Arya,590,602,12
+A Storm of Swords,Jaime,603,619,16
+A Storm of Swords,Catelyn,620,636,16
+A Storm of Swords,Samwell,637,647,10
+A Storm of Swords,Arya,648,658,10
+A Storm of Swords,Jon,659,669,10
+A Storm of Swords,Catelyn,670,685,15
+A Storm of Swords,Arya,686,692,6
+A Storm of Swords,Catelyn,693,705,12
+A Storm of Swords,Arya,706,710,4
+A Storm of Swords,Tyrion,711,721,10
+A Storm of Swords,Davos,722,737,15
+A Storm of Swords,Jon,738,754,16
+A Storm of Swords,Bran,755,773,18
+A Storm of Swords,Daenerys,774,792,18
+A Storm of Swords,Tyrion,793,798,5
+A Storm of Swords,Sansa,799,808,9
+A Storm of Swords,Tyrion,809,831,22
+A Storm of Swords,Sansa,832,841,9
+A Storm of Swords,Jaime,842,856,14
+A Storm of Swords,Davos,857,867,10
+A Storm of Swords,Jon,868,882,14
+A Storm of Swords,Arya,883,893,10
+A Storm of Swords,Tyrion,894,911,17
+A Storm of Swords,Jaime,912,926,14
+A Storm of Swords,Sansa,927,945,18
+A Storm of Swords,Jon,946,959,13
+A Storm of Swords,Tyrion,960,976,16
+A Storm of Swords,Daenerys,977,995,18
+A Storm of Swords,Jaime,996,1010,14
+A Storm of Swords,Jon,1011,1026,15
+A Storm of Swords,Arya,1027,1041,14
+A Storm of Swords,Samwell,1042,1052,10
+A Storm of Swords,Jon,1053,1061,8
+A Storm of Swords,Tyrion,1062,1073,11
+A Storm of Swords,Samwell,1074,1086,12
+A Storm of Swords,Jon,1087,1097,10
+A Storm of Swords,Sansa,1098,1115,17
+A Storm of Swords,Epilogue,1116,1128,12
+A Feast of Crows,Prologue,1,21,20
+A Feast of Crows,Aeron Greyjoy,22,41,19
+A Feast of Crows,Martell,42,64,22
+A Feast of Crows,Cersei,65,79,14
+A Feast of Crows,Brienne,80,100,20
+A Feast of Crows,Samwell,101,123,22
+A Feast of Crows,Arya,124,139,15
+A Feast of Crows,Cersei,140,163,23
+A Feast of Crows,Jaime,164,183,19
+A Feast of Crows,Brienne,184,205,21
+A Feast of Crows,Sansa,206,225,19
+A Feast of Crows,Asha Greyjoy,226,243,17
+A Feast of Crows,Cersei,244,262,18
+A Feast of Crows,Arys Oakheart,263,282,19
+A Feast of Crows,Brienne,283,305,22
+A Feast of Crows,Samwell,306,321,15
+A Feast of Crows,Jaime,322,337,15
+A Feast of Crows,Cersei,338,361,23
+A Feast of Crows,Victarion Greyjoy,362,378,16
+A Feast of Crows,Aeron Greyjoy,379,397,18
+A Feast of Crows,Brienne,398,423,25
+A Feast of Crows,Arianne Martell,424,444,20
+A Feast of Crows,Arya,445,466,21
+A Feast of Crows,Sansa,467,489,22
+A Feast of Crows,Cersei,490,516,26
+A Feast of Crows,Brienne,517,536,19
+A Feast of Crows,Samwell,537,556,19
+A Feast of Crows,Jaime,557,583,26
+A Feast of Crows,Cersei,584,607,23
+A Feast of Crows,Victarion Greyjoy,608,633,25
+A Feast of Crows,Jaime,634,655,21
+A Feast of Crows,Brienne,656,673,17
+A Feast of Crows,Cersei,674,693,19
+A Feast of Crows,Jaime,694,717,23
+A Feast of Crows,Arya,718,739,21
+A Feast of Crows,Samwell,740,753,13
+A Feast of Crows,Cersei,754,777,23
+A Feast of Crows,Brienne,778,799,21
+A Feast of Crows,Jaime,800,818,18
+A Feast of Crows,Cersei,819,837,18
+A Feast of Crows,Arianne Martell,838,863,25
+A Feast of Crows,Sansa,864,896,32
+A Feast of Crows,Brienne,897,916,19
+A Feast of Crows,Cersei,917,939,22
+A Feast of Crows,Jaime,940,958,18
+A Feast of Crows,Samwell,959,976,17

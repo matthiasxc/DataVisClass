@@ -1,0 +1,11 @@
+﻿#imageOverlays{
+    position:absolute;
+    top:0px;
+}
+
+#bookBanner{
+    position:relative;
+    top:20px;
+    left:4px;
+    opacity:0.5;
+}
