@@ -1,0 +1,61 @@
+,Red,Green,Blue,,,
+Minimum Color,249,105,107,,,
+Mid Color ,255,235,132,,,
+Maximum Color,99,190,123,,,
+Minimum Value,40%,,,,,
+Mid Value,50%,,,,,
+Maximum Value,60%,,,,,
+,,,,,,
+Sample Data: 2008 Presidential Election,,,,,,
+,State Symbol,Values,Red,Green,Blue,Color Hex
+Alabama,AL,38.7%,249,105,107,#F9696B
+Alaska,AK,37.9%,249,105,107,#F9696B
+Arizona,AZ,45.1%,252,172,120,#FCAB77
+Arkansas,AR,38.9%,249,105,107,#F9696B
+California,CA,61.0%,99,190,123,#63BE7B
+Colorado,CO,53.7%,198,219,129,#C5DA80
+Connecticut,CT,60.6%,99,190,123,#63BE7B
+Delaware,DE,61.9%,99,190,123,#63BE7B
+District of Columbia,DC,92.5%,99,190,123,#63BE7B
+Florida,FL,51.0%,239,230,131,#EEE683
+Georgia,GA,47.0%,253,196,124,#FDC37C
+Hawaii,HI,71.9%,99,190,123,#63BE7B
+Idaho,ID,36.1%,249,105,107,#F9696B
+Illinois,IL,61.9%,99,190,123,#63BE7B
+Indiana,IN,50.0%,255,234,132,#FEEA83
+Iowa,IA,53.9%,194,217,128,#C1D980
+Kansas,KS,41.7%,250,126,111,#F97E6F
+Kentucky,KY,41.2%,250,120,110,#F9786D
+Louisiana,LA,39.9%,249,105,107,#F9696B
+Maine,ME,57.7%,135,200,125,#86C87D
+Maryland,MD,61.9%,99,190,123,#63BE7B
+Massachusetts,MA,61.8%,99,190,123,#63BE7B
+Michigan,MI,57.4%,139,202,125,#8BC97D
+Minnesota,MN,54.1%,192,217,128,#BFD880
+Mississippi,MS,43.0%,251,144,115,#FA8F72
+Missouri,MO,49.3%,255,226,130,#FEE182
+Montana,MT,47.3%,253,199,125,#FDC77D
+Nebraska,NE,41.6%,250,126,111,#F97D6E
+Nevada,NV,55.2%,175,212,127,#AED37F
+New Hampshire,NH,54.1%,191,216,128,#BED880
+New Jersey,NJ,57.3%,142,202,125,#8DCA7D
+New Mexico,NM,56.9%,147,204,126,#93CB7D
+New York,NY,62.9%,99,190,123,#63BE7B
+North Carolina,NC,49.7%,255,231,131,#FEE783
+North Dakota,ND,44.6%,252,165,119,#FBA576
+Ohio,OH,51.5%,232,228,131,#E7E482
+Oklahoma,OK,34.4%,249,105,107,#F9696B
+Oregon,OR,56.8%,150,205,126,#95CC7D
+Pennsylvania,PA,54.5%,185,215,128,#B8D67F
+Rhode Island,RI,62.9%,99,190,123,#63BE7B
+South Carolina,SC,44.9%,252,169,119,#FBA877
+South Dakota,SD,44.8%,252,167,119,#FBA676
+Tennessee,TN,41.8%,250,129,112,#FA806F
+Texas,TX,43.7%,251,153,116,#FB9874
+Utah,UT,34.4%,249,105,107,#F9696B
+Vermont,VT,67.5%,99,190,123,#63BE7B
+Virginia,VA,52.6%,214,223,130,#D5DF81
+Washington,WA,57.7%,136,201,125,#87C87D
+West Virginia,WV,42.6%,251,139,113,#FA8A71
+Wisconsin,WI,56.2%,158,207,126,#9DCF7E
+Wyoming,WY,32.5%,249,105,107,#F9696B
